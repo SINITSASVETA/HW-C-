@@ -58,7 +58,7 @@ zB = Convert.ToDouble(Console.ReadLine());
  Console.WriteLine(Distanse3D(xA, yA, zA, xB, yB, zB));
  */
  //Задача 23 Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
-
+/*
  Console.WriteLine("Введите число для вывода таблицы кубов: ");
  int Number = Convert.ToInt32(Console.ReadLine());
  int index = 1;
@@ -69,3 +69,4 @@ zB = Convert.ToDouble(Console.ReadLine());
      Console.Write(KubNumber + " ");
      index = index + 1; 
  }
+ */
